@@ -1,0 +1,11 @@
+{
+  "summit": "A",
+  "next": [
+    { "summit": "B", "distance": 2 },
+    { "summit": "C", "distance": 5 },
+    { "summit": "D", "distance": 4 }
+  ],
+  "value": "Infinity",
+  "isMarked": false,
+  "previousNode": null
+}
